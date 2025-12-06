@@ -1,6 +1,6 @@
 # AWS-CLI
 
-AWS-CLI lets you build, inspect, access, manage, and tear down lab EC2 instances entirely from one Python entrypoint—no AWS console needed.
+AWS-CLI lets you build, inspect, access, manage, and tear down EC2 instances entirely from one Python entrypoint—no AWS console needed.
 
 ## Features
 
