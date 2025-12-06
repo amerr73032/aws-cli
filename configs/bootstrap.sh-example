@@ -1,0 +1,8 @@
+#!/bin/bash
+set -euo pipefail
+
+hostnamectl set-hostname automation
+timedatectl set-timezone America/Chicago
+
+apt-get update -y
+apt-get upgrade -y

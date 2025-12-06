@@ -1,0 +1,8 @@
+{
+  "instance_type": "t3.large",
+  "key_name": "aws_linux",
+  "security_group_name": "win-test-sg",
+  "instance_name": "win-test",
+  "ami_id": "ami-0325e1499e14d1d8f",
+  "instance_profile": "ssm-role"
+}

@@ -1,0 +1,6 @@
+{
+  "profile_name": "site0",
+  "region": "us-east-2",
+  "aws_access_key_id": "key_id",
+  "aws_secret_access_key": "key_secret"
+}
